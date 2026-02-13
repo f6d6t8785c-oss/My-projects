@@ -1,0 +1,185 @@
+.t1{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #0E2240;
+    color:#FEC524;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    
+
+}
+.t1 img{
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    margin-right: 20px;
+    
+}
+.t2{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+    background-color:#552583;
+    color:#FDB927;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+
+}
+.t2 img{
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    margin-right: 20px;
+    
+}
+.t3{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    background-color:#1D428A;
+    color:#FFC72C;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    margin-top: 15px;
+    
+
+}
+.t3 img{
+    width: 150px;
+    height: auto;
+    object-fit: cover;
+    margin-right: 20px;
+    
+}
+.t4{
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 15px;
+    background-color:#12173F ;
+    color:#5D76A9;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    
+
+}
+.t4 img{
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    margin-right: 20px;
+    
+}
+.t5{
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 15px;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    background-color:#002B5E ;
+    color: #0053BC;
+    
+
+}
+.t5 img{
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    margin-right: 20px;
+    
+}
+.t6{
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 15px;
+    background-color: #111111;
+    color:#FCEE0C ;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+
+    
+
+}
+.t6 img{
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    margin-right: 20px;
+    
+}
+.t7{
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 15px;
+    background-color:#121212;
+    color: #E03A3E;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    
+
+}
+.t7 img{
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    margin-right: 20px;
+    
+}
+.t8{
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 15px;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    background-color: #1D1160;
+    color:#E56020 ;
+    
+
+}
+.t8 img{
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    margin-right: 20px;
+    
+}
+body{
+    background:#F3F4F6;
+}
+#bookmark{
+    position:fixed;
+    right:20px;
+    bottom:20px;
+    color: rgb(252, 252, 252);
+    font-weight: 900;
+    padding: 20px 30px;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color:#1D428A ;
+}
+.header{
+    font-family: "Bungee", sans-serif;
+    font-size: 50px;
+    background-color: #FFFFFF;
+    margin-bottom: 7px;
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: 500;
+    color:rgb(28, 28, 83);
+}
