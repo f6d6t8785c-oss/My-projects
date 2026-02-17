@@ -1,6 +1,6 @@
 body{
-    background-color: #111827;
-    color:  #FFFFFF;
+    background-color: #F5F5F5;
+    color:  #0e0e0e;
 }
 #ppg,
 #tppg{
@@ -9,9 +9,9 @@ body{
     font-style: normal;
     font-size: 30px;
     margin-bottom: 10px;
-    border-bottom: 2px solid #374151;
+    border-bottom: 2px solid #1414146b;
     padding: 10px;
-    color: #9CA3AF;
+    color: black;
     padding: 10px;
 }
 #rpg,
@@ -25,7 +25,7 @@ body{
     margin-bottom: 10px;
     border-bottom: 2px solid #374151;
     padding: 10px;
-    color: #9CA3AF;
+    color: black;
 }
 table{
     width: 100%;
@@ -70,5 +70,19 @@ td:last-child{
     overflow: hidden;
 }
 .mid{
-    color:#2564eb3b;
+    color:#2a2a2b60;
 }
+#bookmark{
+    position:fixed;
+    right:20px;
+    bottom:20px;
+    color: rgb(14, 13, 13);
+    font-weight: 900;
+    padding: 20px 30px;
+    text-decoration: none;
+    border-radius: 30px;
+    background-color: #615f5f1e;
+    font-size: 15px;
+    width: fit-content;
+}
+

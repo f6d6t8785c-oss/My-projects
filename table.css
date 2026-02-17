@@ -57,12 +57,12 @@ tr:first-child td {
     position:fixed;
     right:20px;
     bottom:20px;
-    color: rgb(252, 252, 252);
+    color: rgb(14, 13, 13);
     font-weight: 900;
     padding: 20px 30px;
     text-decoration: none;
-    border-radius: 10px;
-    background-color: #000;
+    border-radius: 30px;
+    background-color: #fdfdfd5e;
     font-size: 15px;
     width: fit-content;
 }

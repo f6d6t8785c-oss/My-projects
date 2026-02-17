@@ -8,7 +8,6 @@ body{
     margin-top: 20px;
     border-radius: 15px;
     margin-bottom: 35px;
-    background-color: ;
 }
 .game1{
     font-family: 'Roboto Slab', serif;
@@ -20,7 +19,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:700;
+    font-weight:700;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game1 img{
@@ -41,7 +40,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:700;
+    font-weight:700;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game2 img{
@@ -61,7 +60,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:700;
+    font-weight:700;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game3 img{
@@ -81,7 +80,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:700;
+    font-weight:700;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game4 img{
@@ -101,7 +100,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:700;
+    font-weight:700;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game5 img{
@@ -121,7 +120,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:700;
+    font-weight:700;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game6 img{
@@ -141,7 +140,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:700;
+    font-weight:700;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game7 img{
@@ -161,7 +160,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:700;
+    font-weight:700;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game8 img{
@@ -181,7 +180,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:700;
+    font-weight:700;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game9 img{
@@ -201,7 +200,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:700;
+    font-weight:700;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game10 img{
@@ -221,7 +220,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:700;
+    font-weight:700;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game11 img{
@@ -241,7 +240,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:700;
+    font-weight:700;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game12 img{
@@ -261,7 +260,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:700;
+    font-weight:700;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game13 img{
@@ -302,7 +301,7 @@ body{
     border-radius: 15px;
     padding: 15px;
     font-size: 20px;
-    weight:800;
+    font-weight:800;
     box-shadow: #0e0d0d 0px 5px 15px;
 }
 .game15 img{
@@ -332,7 +331,7 @@ body{
     padding: 20px 30px;
     text-decoration: none;
     background-color: rgba(245, 245, 245, 0.568);
-    border-radius: 20px;
+    border-radius: 30px;
     width: auto;
 }
 button{
@@ -340,7 +339,7 @@ button{
     color: white;
     padding: 10px 20px;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
 }
 .footer{
