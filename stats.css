@@ -1,0 +1,74 @@
+body{
+    background-color: #111827;
+    color:  #FFFFFF;
+}
+#ppg,
+#tppg{
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #374151;
+    padding: 10px;
+    color: #9CA3AF;
+    padding: 10px;
+}
+#rpg,
+#apg,
+#trpg,
+#tapg{
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #374151;
+    padding: 10px;
+    color: #9CA3AF;
+}
+table{
+    width: 100%;
+}
+td:last-child{
+    text-align: right;
+}
+.stat1{
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: "Cormorant Garamond", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+.stat2,
+.stat3,
+.stat4,
+.stat5,
+.stat6{
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: "Cormorant Garamond", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.footer{
+    text-align: center;
+    font-size: 15px;
+    background-image: url(https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/1408/814/05.31.23_List-of-NBA-Champs_Horizontal.jpg?ve=1&tl=1);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.678);
+    color: white;
+    text-shadow: black 1px 1px 4px;
+    font-weight: 900;
+    overflow: hidden;
+}
+.mid{
+    color:#2564eb3b;
+}
