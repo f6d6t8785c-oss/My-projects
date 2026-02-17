@@ -26,7 +26,7 @@ body{
     justify-content: center;
     align-items: center;
     background-image: url(https://i.vimeocdn.com/video/773327411-359ee1327ead8227dba3d3336318afb2736bb32aee1bfbaf7b065c6c675caf41-d?mw=1920&mh=1080&q=70);
-    background-color: rgba(0, 0, 0, 0.274);
+    background-color: rgba(0, 0, 0, 0.445);
     background-blend-mode: multiply;
 
 }
@@ -39,6 +39,7 @@ body{
     background-color:#041844 ;
     width: 100%;
     font-size: 20px;
+    width: 100%;
 }
 .others{
     font-size: 20px;
@@ -86,4 +87,17 @@ input[type="text"], input[type="password"]{
     display: block;
     margin: 0 auto 20px;
     width: 70px;
+}
+.footer{
+    text-align: center;
+    font-size: 15px;
+    background-image: url(https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/1408/814/05.31.23_List-of-NBA-Champs_Horizontal.jpg?ve=1&tl=1);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.678);
+    color: white;
+    text-shadow: black 1px 1px 4px;
+    font-weight: 900;
+    overflow: hidden;
 }

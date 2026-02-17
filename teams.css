@@ -1,12 +1,18 @@
 .t1{
     padding: 10px;
     border-radius: 10px;
-    background-color: #0E2240;
+    background-image:url(https://platform.sbnation.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9878167/867254292.jpg.jpg?quality=90&strip=all&crop=0.5,0,99,100);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    background-color: #11111193;
     color:#FEC524;
     font-family: "Shadows Into Light", cursive;
-    font-weight: 400;
+    font-weight: 900;
     font-style: normal;
     font-size: 25px;
+    text-shadow: #111111 1px 0 10px;
     
 
 }
@@ -22,12 +28,18 @@
     padding: 10px;
     border-radius: 10px;
     margin-top: 15px;
-    background-color:#552583;
+    background-color: #11111193;
+    background-image: url(https://miro.medium.com/v2/resize:fit:1400/1*X_UUsGlQGQHz3k0kVYAHOw.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
     color:#FDB927;
     font-family: "Shadows Into Light", cursive;
     font-weight: 400;
     font-style: normal;
     font-size: 25px;
+    text-shadow: #111111 1px 0 10px;
+    font-weight: 900;
 
 }
 .t2 img{
@@ -41,13 +53,18 @@
     padding: 10px;
     border-radius: 10px;
     margin: 5px;
-    background-color:#1D428A;
+    background-color: #11111193;
+    background-image: url(https://i.guim.co.uk/img/media/c0b2e63817d1efa70045451d436b8a55ba3b6612/0_127_5916_3550/master/5916.jpg?width=1200&quality=85&auto=format&fit=max&s=8fca5c6d2a4de0a9afa62a2df0b4dbec);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
     color:#FFC72C;
     font-family: "Shadows Into Light", cursive;
-    font-weight: 400;
+    font-weight: 900;
     font-style: normal;
     font-size: 25px;
     margin-top: 15px;
+    text-shadow: #111111 1px 0 10px;
     
 
 }
@@ -62,12 +79,18 @@
     padding: 10px;
     border-radius: 20px;
     margin-top: 15px;
-    background-color:#12173F ;
+    background-color: #11111193;
+    background-image: url(https://slamonline.com/wp-content/uploads/2022/04/1920x1280-grizzlies-3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
     color:#5D76A9;
     font-family: "Shadows Into Light", cursive;
     font-weight: 400;
     font-style: normal;
     font-size: 25px;
+    text-shadow: #111111 1px 0 10px;
+    font-weight: 900;
     
 
 }
@@ -86,8 +109,14 @@
     font-weight: 400;
     font-style: normal;
     font-size: 25px;
-    background-color:#002B5E ;
+    background-color: #11111193;
+    background-image: url(https://pbs.twimg.com/media/CrxA8q4XYAAxcWm.jpg);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+    text-shadow: #111111 1px 0 10px;
     color: #0053BC;
+    font-weight: 900;
     
 
 }
@@ -102,12 +131,18 @@
     padding: 10px;
     border-radius: 20px;
     margin-top: 15px;
-    background-color: #111111;
+    background-color: #11111193;
+    background-image: url(https://cdn.nba.com/teams/uploads/sites/1610612762/2022/10/GettyImages-1435999818.jpg);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
     color:#FCEE0C ;
     font-family: "Shadows Into Light", cursive;
     font-weight: 400;
     font-style: normal;
     font-size: 25px;
+    font-weight: 900;
+    text-shadow: #111111 1px 0 10px;
 
     
 
@@ -123,14 +158,17 @@
     padding: 10px;
     border-radius: 20px;
     margin-top: 15px;
-    background-color:#121212;
+    background-color: #11111193;
+    background-image: url(https://cdn.nba.com/teams/uploads/sites/1610612757/2024/09/training_756_092924.jpg);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
     color: #E03A3E;
     font-family: "Shadows Into Light", cursive;
-    font-weight: 400;
     font-style: normal;
     font-size: 25px;
-    
-
+    font-weight: 900;
+    text-shadow: #111111 1px 0 10px;
 }
 .t7 img{
     width: 200px;
@@ -147,8 +185,14 @@
     font-weight: 400;
     font-style: normal;
     font-size: 25px;
-    background-color: #1D1160;
+    background-color: #11111193;
+    background-image: url(https://cdn.nba.com/teams/legacy/www.nba.com/suns/sites/suns/files/support.jpg);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
     color:#E56020 ;
+    font-weight: 900;
+    text-shadow: #111111 1px 0 10px;
     
 
 }
@@ -171,7 +215,7 @@ body{
     padding: 20px 30px;
     text-decoration: none;
     border-radius: 10px;
-    background-color:#1D428A ;
+    background-color:#1d418a70 ;
 }
 .header{
     font-family: "Bungee", sans-serif;
@@ -183,3 +227,16 @@ body{
     font-weight: 500;
     color:rgb(28, 28, 83);
 }
+.footer{
+    text-align: center;
+    font-size: 15px;
+    background-image: url(https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/1408/814/05.31.23_List-of-NBA-Champs_Horizontal.jpg?ve=1&tl=1);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.678);
+    color: white;
+    text-shadow: black 1px 1px 4px;
+    font-weight: 900;
+}
+

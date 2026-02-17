@@ -252,6 +252,8 @@ font-family: "Oswald", sans-serif;
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
     font-family:"Oswald", sans-serif ;
     font-size: 30px;
+    text-shadow: rgb(199, 193, 193) 2px 2px 2px;
+    font-weight: 600;
     
     
 }
@@ -295,4 +297,18 @@ font-family: "Oswald", sans-serif;
     background-color: #FFFFFF;
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
     font-family: "Roboto Slab", serif;
+
+}
+.footer{
+    text-align: center;
+    font-size: 15px;
+    background-image: url(https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/1408/814/05.31.23_List-of-NBA-Champs_Horizontal.jpg?ve=1&tl=1);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.678);
+    color: white;
+    text-shadow: black 1px 1px 4px;
+    font-weight: 900;
+    overflow: hidden;
 }
